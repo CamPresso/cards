@@ -8,3 +8,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+
+
+.cards {
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em;
+  background color: #fff;
+  border: 3px solid #e2e2e2;
+  border-radius:10px;
+}
